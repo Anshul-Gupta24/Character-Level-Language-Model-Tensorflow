@@ -1,7 +1,3 @@
-'''
-	question: what is the use of batch size?
-'''
-
 from __future__ import print_function
 import tensorflow as tf
 import numpy as np
