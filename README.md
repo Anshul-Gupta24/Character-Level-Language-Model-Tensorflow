@@ -12,4 +12,4 @@
 
 #### >> python rnntf.py
 
-#### Output is 200 character long samples of text every 100 iterations of backpropagation.
+#### Output is a 200 character long sample of text after every epoch.
