@@ -10,6 +10,6 @@
 
 #### (Input is stored in input.txt)
 
-#### >> python rnntf.py
+#### ```>> python rnntf.py```
 
 #### Output is a 200 character long sample of text after every epoch.
